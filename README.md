@@ -1,3 +1,5 @@
+# 吉田さんのReact学習成果物レビュー用リポジトリです
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
